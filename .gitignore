@@ -1,3 +1,6 @@
+data
+.DS_Store
+checkpoint
 __pycache__/
 images
 models/models.zip
